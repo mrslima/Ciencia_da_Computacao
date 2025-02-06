@@ -7,8 +7,9 @@ Este repositório contém:
   - Conteúdo do curso de CiberSegurança da PUCPR - [Matriz de XXXX]( link )
   - Conteúdo do curso de Jogos Digitais da PUCPR - [Matriz de XXXX]( link)
   - Conteúdo do curso de Engenharia da Computação da PUCPR - [Matriz de XXXX]( link)
+  - Conteúdo do curso de Sistemas da Informação da PUCPR - [Matriz de XXXX]( link)
 
-❗**Observação**: Algumas disciplinas foram omitidas por não terem relação com o conteúdo de computação, como as da área de Filosofia. Além disso, algumas matérias de Experiência Criativa também foram excluídas, pois são mais práticas e possuem pouco conteúdo teórico.
+_❗**Observação**: Algumas disciplinas foram omitidas por não terem relação com o conteúdo de computação, como as da área de Filosofia. Além disso, algumas matérias de Experiência Criativa também foram excluídas, pois são mais práticas e possuem pouco conteúdo teórico._
 
 
 ### ➡️ _IR PARA / GO TO_
@@ -18,14 +19,9 @@ Este repositório contém:
 - [Engenharia da Computação](#engenharia-da-computacao)
 - [Sistemas da Informação](#sistemas-da-informacao)
 
-<br><br>
 
-----
-
-<br><br>
-
-## blablabla
-- alguma coisa aqui
+### Contribua
+- [Orientações](https://github.com/mrslima/Cursos_Computacao/blob/407bf2371c48fd9d39bc193936b44feadd04025b/CONTRIBUTING.md)
 
 <br><br>
 
@@ -33,37 +29,7 @@ Este repositório contém:
 
 <br><br>
 
-<!--
 
-NOTA PARA EDITORES:
-
-Alguns cursos podem não conter materiais relevantes ou bibliografia, potanto, adicione apostilas da materia que achar relevante
-
-exemplo:
-
-Gestão de Projetos e Métodos Ágeis     -> aqui vou add o guia pmbok
-  Sem plano de ensino… Guia PMBOK 6a Edição
-
-Programação WEB                        -> aqui vou add pdfs que ensinam algo
-    Sem plano de ensino…
-
-
-------------------
-
-!!! VOCÊ PODE:
-
-REFAZER OS MATERIAS DOS PROFS COM UMA MELHOR DIDÁTICA, pois sabemos que alguns materiais são péssimos
-
-RECOMENDAR VIDEO AULAS / PLAYLISTS SOBRE DETERMINADO ASSUNTO, em pt, en, es
-
-ADICIONAIR SUAS MATERIAS ELETIVAS NA SEÇÃO DE ELETIVAS
-
-RECOMENDAR REPOSITORIOS, FERRAMENTAS, SITES
-
-RECOMENDAR ASSUNTOS DA AREA DE TI QUE ACHE INTERESSANTE
-  ex HVM do Victor Taelin (BR), https://higherorderco.com, https://github.com/VictorTaelin
-
--->
 ##### [Ir para o topo](#sobre)
 ## Ciencia da Computacao
 
