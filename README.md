@@ -14,6 +14,7 @@ Este repositório contém:
 - [CiberSegurança](#ciberseguranca)
 - [Jogos Digitais](#jogos-digitais)
 - [Engenharia da Computação](#engenharia-da-computacao)
+- [Sistemas da Informação](#sistemas-da-informacao)
 
 <br><br>
 
@@ -315,3 +316,67 @@ RECOMENDAR ASSUNTOS DA AREA DE TI QUE ACHE INTERESSANTE
 - []()
 - []()
 - []()
+
+
+----
+
+<br><br>
+
+## Sistemas da Informacao
+
+#### 1° Semestre
+- []()
+- []()
+- []()
+- []()
+- []()
+
+#### 2° Semestre
+- []()
+- []()
+- []()
+- []()
+- []()
+
+#### 3° Semestre
+- []()
+- []()
+- []()
+- []()
+- []()
+- 
+#### 4° Semestre
+- []()
+- []()
+- []()
+- []()
+- []()
+
+#### 5° Semestre
+- []()
+- []()
+- []()
+- []()
+- []()
+
+#### 6° Semestre
+- []()
+- []()
+- []()
+- []()
+- []()
+
+#### 7° Semestre
+- []()
+- []()
+- []()
+- []()
+- []()
+
+#### 8° Semestre
+- []()
+- []()
+- []()
+- []()
+- []()
+
