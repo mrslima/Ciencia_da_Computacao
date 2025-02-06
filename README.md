@@ -27,6 +27,10 @@ _❗**Observação**: Algumas disciplinas foram omitidas por não terem relaçã
 
 ### Recomendados
 <!-- BLOG-POST-LIST:START -->
+- [Treasure Hunt: 5 Juicy Repos on GitHub](https://dev.to/mrslima/treasure-hunt-5-juicy-repos-on-github-ba9)
+- [12 VS Code Shortcuts To Code Faster!](https://dev.to/mrslima/12-vs-code-shortcuts-to-code-faster-55m5)
+- [Como usar o Google americano &lpar;pesquisa em inglês&rpar;](https://dev.to/mrslima/como-usar-o-google-americano-pesquisa-em-ingles-46f2)
+- [Python Typing](https://dev.to/mrslima/python-typing-kl4)
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>
