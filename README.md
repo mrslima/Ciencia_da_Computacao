@@ -1,4 +1,6 @@
-# add banner
+# add banner Ciência da Computação - CiberSegurança - Jogos Digitais - Engenharia da Computação - Sistemas da Informação
+
+<img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" alt="Discord" width="50"> [_Discord_](https://discord.gg/WSC3yDBSAu)
 
 ### Sobre
 Este repositório contém:
@@ -22,15 +24,6 @@ _❗**Observação**: Algumas disciplinas foram omitidas por não terem relaçã
 ### Contribua
 - [Orientações](https://github.com/mrslima/Cursos_Computacao/blob/407bf2371c48fd9d39bc193936b44feadd04025b/CONTRIBUTING.md)
 - [Design assets](https://github.com/mrslima/Cursos_Computacao/tree/1ac8ddf2de3eab009ff949e72ce81ffbc4eb5b31/assets)
-
-
-### Recomendados
-<!-- BLOG-POST-LIST:START -->
-- [Treasure Hunt: 5 Juicy Repos on GitHub](https://dev.to/mrslima/treasure-hunt-5-juicy-repos-on-github-ba9)
-- [12 VS Code Shortcuts To Code Faster!](https://dev.to/mrslima/12-vs-code-shortcuts-to-code-faster-55m5)
-- [Como usar o Google americano &lpar;pesquisa em inglês&rpar;](https://dev.to/mrslima/como-usar-o-google-americano-pesquisa-em-ingles-46f2)
-- [Python Typing](https://dev.to/mrslima/python-typing-kl4)
-<!-- BLOG-POST-LIST:END -->
 
 <br><br>
 
