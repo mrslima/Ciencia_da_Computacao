@@ -1,5 +1,4 @@
-# Ciência da Computação - CiberSegurança - Jogos Digitais - Engenharia da Computação - Sistemas da Informação
-
+# add banner
 
 ### Sobre
 Este repositório contém:
