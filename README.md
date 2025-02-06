@@ -22,6 +22,7 @@ _❗**Observação**: Algumas disciplinas foram omitidas por não terem relaçã
 
 ### Contribua
 - [Orientações](https://github.com/mrslima/Cursos_Computacao/blob/407bf2371c48fd9d39bc193936b44feadd04025b/CONTRIBUTING.md)
+- [Design assets](https://github.com/mrslima/Cursos_Computacao/tree/1ac8ddf2de3eab009ff949e72ce81ffbc4eb5b31/assets)
 
 <br><br>
 
