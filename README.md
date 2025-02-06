@@ -1,6 +1,8 @@
 # add banner Ciência da Computação - CiberSegurança - Jogos Digitais - Engenharia da Computação - Sistemas da Informação
 
+<!--
 <img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" alt="Discord" width="50"> [_Discord_](https://discord.gg/WSC3yDBSAu)
+-->
 
 ### Sobre
 Este repositório contém:
