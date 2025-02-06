@@ -62,7 +62,7 @@ RECOMENDAR ASSUNTOS DA AREA DE TI QUE ACHE INTERESSANTE
 
 -->
 
-## Ciência da Computação
+## Ciencia da Computacao
 
 #### 1° Semestre
 - [Raciocínino Algorítmico]()
@@ -129,7 +129,7 @@ RECOMENDAR ASSUNTOS DA AREA DE TI QUE ACHE INTERESSANTE
 
 <br><br>
 
-## CiberSegurança
+## CiberSeguranca
 
 #### 1° Semestre
 - []()
@@ -258,7 +258,7 @@ RECOMENDAR ASSUNTOS DA AREA DE TI QUE ACHE INTERESSANTE
 
 <br><br>
 
-## Engenharia da Computação
+## Engenharia da Computacao
 
 #### 1° Semestre
 - []()
